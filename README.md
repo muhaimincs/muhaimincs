@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world 👋
 I'm Muhaimin, Freelance Web Developer from Malaysia 🇲🇾. 
 
 ### What I am good at 💪
@@ -35,6 +35,7 @@ I'm Muhaimin, Freelance Web Developer from Malaysia 🇲🇾.
 
 📫 Reach me at muhaimin@mcstech.dev
 
+> <em><b>Eager to meet new people</b> so if you want to say <b>hi 👋, let's meet up!</b> :)</em>
 
 <!--
 **muhaimincs/muhaimincs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
