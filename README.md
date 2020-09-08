@@ -7,7 +7,7 @@ I'm Muhaimin, Freelance Web Developer from Malaysia 🇲🇾.
 - Technical consulting
 
 ### Past Projects:
-1. Perodua Kuala Lumpur - a hobby project using NextJs and Contentful CMS
+1. [Perodua Kuala Lumpur](https://peroduakualalumpur.com) - a hobby project using NextJs and Contentful CMS
 2. Dam Safety Surveillance - Owned by Jabatan Pengairan & Saliran Malaysia to monitor the well being of dam in Malaysia. A React apps + Laravel as API.
 3. [Symprio Chatbot](www.symprio.com) - Built using React, Websocket, Nodejs, MongoDB
 
