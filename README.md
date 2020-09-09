@@ -34,6 +34,8 @@ I'm Muhaimin, Freelance Web Developer from Malaysia 🇲🇾.
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+- 🌱 I’m currently exploring [Deno](https://github.com/denoland/deno)
+
 📫 Reach me at muhaimin@mcstech.dev
 
 > <em><b>Eager to meet new people</b> so if you want to say <b>hi 👋, let's meet up!</b> :)</em>
