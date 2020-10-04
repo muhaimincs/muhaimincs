@@ -1,18 +1,33 @@
+---
+title: 'About MCS Dev Resources'
+excerpt: 'Started in 2017 as a freelance web developer in Kuala Lumpur, Malaysia, the bears have made it “paw” sible for companies to get an agency that is absolutely passionate about their business. Since started, the bears have been creating clean yet sophisticated web application, focusing on great content and communication. Today, we are absolutely proud to bring those core values.'
+coverImage: '/assets/blog/dynamic-routing/cover.jpg'
+date: '2020-10-04T05:35:07.322Z'
+author:
+  name: Muhaimin CS
+  picture: '/assets/blog/authors/jj.jpeg'
+ogImage:
+  url: '/assets/blog/dynamic-routing/cover.jpg'
+---
+
 # Hello world 👋 and Damai Sejahtera ☮️
-I'm Muhaimin, Freelance Web Developer from Malaysia 🇲🇾. 
+
+I'm Muhaimin, Freelance Web Application Developer from Malaysia 🇲🇾. My services include help your businesses build any type of management system and any business/personal website to push up your company sales, visibility to public and globally promote your product.
 
 ### What I am good at 💪
+
 - Modern web development
 - Product management
 - Technical consulting
 
 ### Past Projects:
+
 1. [Perodua Kuala Lumpur](https://peroduakualalumpur.com) - a hobby project using NextJs and Contentful CMS
 2. Dam Safety Surveillance - Owned by Jabatan Pengairan & Saliran Malaysia to monitor the well being of dam in Malaysia. A React apps + Laravel as API.
 3. [Symprio Chatbot](www.symprio.com) - Built using React, Websocket, Nodejs, MongoDB
 
-
 ### Things I code with
+
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
